@@ -5,6 +5,6 @@ class Song
   def initialize
     @title = title
     @artist = artist
-    binding.pry
+    # binding.pry
   end
 end
